@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Topshelf.SimpleInjector")]
+[assembly: AssemblyTitle("Topshelf.SimpleInjector.Packaging")]
 [assembly: AssemblyDescription("Provides dependency injection for Topshelf using SimpleInjector")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Gareth Barlow")]
-[assembly: AssemblyProduct("Topshelf.SimpleInjector")]
+[assembly: AssemblyProduct("Topshelf.SimpleInjector.Packaging")]
 [assembly: AssemblyCopyright("Copyright © Gareth Barlow 2014")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]

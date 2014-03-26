@@ -5,11 +5,12 @@
     <version>$version$</version>
     <title>$title$</title>
     <authors>$author$</authors>
-    <owners>$author$</owners>    
+    <owners>$author$</owners>
+    <projectUrl>https://github.com/grufffta/Topshelf.SimpleInjector</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>$description$</description>
     <releaseNotes>First release.</releaseNotes>
     <copyright>Copyright 2014</copyright>
-    <tags>Topshelf SimpleInjector</tags>
+    <tags>TopShelf SimpleInjector Packages</tags>
   </metadata>
 </package>
