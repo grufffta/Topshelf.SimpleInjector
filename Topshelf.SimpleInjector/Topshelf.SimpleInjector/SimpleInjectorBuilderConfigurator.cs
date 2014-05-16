@@ -1,5 +1,5 @@
 ﻿using System.Collections.Generic;
-
+using System.Linq;
 using System.Reflection;
 using SimpleInjector;
 using Topshelf.Builders;
@@ -50,7 +50,7 @@ namespace Topshelf.SimpleInjector
 
                 _container = new Container();
 
-                if (_packageAssemblies != null)
+                if (_packageAssemblies != null && _packageAssemblies.Any())
                     _container.RegisterPackages(_packageAssemblies);
                 else
                     _container.RegisterPackages();
