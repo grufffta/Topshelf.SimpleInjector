@@ -1,5 +1,6 @@
 <?xml version="1.0"?>
-<package >
+
+<package>
   <metadata>
     <id>$id$</id>
     <version>$version$</version>
@@ -9,7 +10,7 @@
     <projectUrl>https://github.com/grufffta/Topshelf.SimpleInjector</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>$description$</description>
-    <releaseNotes>First release.</releaseNotes>
+    <releaseNotes>Updated Topshelf. SimpleInjector.</releaseNotes>
     <copyright>Copyright 2014</copyright>
     <tags>TopShelf SimpleInjector Packages</tags>
   </metadata>
